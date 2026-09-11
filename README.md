@@ -28,3 +28,19 @@ Pilih peran di halaman masuk:
 ## Stack
 
 React 19, TanStack Start, Tailwind CSS v4, Zustand.
+
+## Menjalankan lokal
+
+```bash
+git clone https://github.com/Armanto908/humanis.git
+cd humanis
+npm install
+npm run dev
+```
+
+Tidak ada login nyata: pilih persona demo di halaman masuk. Data tersimpan di `localStorage` browser.
+
+## Catatan
+
+Perhitungan BPJS/PPh 21 dan file ekspor (Accurate, BCA Multi Credit, e-Bupot, BPJS SIPP) bersifat demo/ilustratif, bukan nasihat pajak.
+
