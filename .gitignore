@@ -9,3 +9,4 @@ artifacts/
 .grok/
 .DS_Store
 .node_modules.lock
+.netlify/

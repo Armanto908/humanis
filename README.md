@@ -1,5 +1,7 @@
 # Humanis
 
+**Live:** [https://humanis-id.netlify.app](https://humanis-id.netlify.app)
+
 Platform pengelolaan karyawan berbasis AI — People Ops untuk studio fiktif **PT Arunika Digital**.
 
 Tagline: *Platform Pengelolaan Karyawan Berbasis AI yang Memahami Manusia dan Efisiensi Bisnis.*
